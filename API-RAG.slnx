@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="API-RAG/API-RAG.csproj" />
+  <Project Path="BusinessLogicLayer/BusinessLogicLayer.csproj" />
+  <Project Path="DataAccessLayer/DataAccessLayer.csproj" />
+</Solution>
